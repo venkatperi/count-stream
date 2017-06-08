@@ -1,0 +1,17 @@
+{
+  "name": "composeable-stream",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.coffee",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stream-array": "^1.1.2",
+    "streamify-string": "^1.0.1"
+  },
+  "dependencies": {
+    "coffee-script": "^1.12.6",
+    "readable-stream": "^2.2.11",
+    "xtend": "^4.0.1"
+  }
+}
